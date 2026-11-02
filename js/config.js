@@ -6,7 +6,7 @@ export const BACKENDLESS_API_KEY = 'YOUR_BACKENDLESS_API_KEY';
 export const firebaseConfig = {
   apiKey: "YOUR_FIREBASE_API_KEY",
   authDomain: "your-app.firebaseapp.com",
-  projectId: "your-project-id",
+  projectId: "eduvista-75bd6",
   storageBucket: "your-app.appspot.com",
   messagingSenderId: "1234567890",
   appId: "1:1234567890:web:abcdef123456"
